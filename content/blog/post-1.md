@@ -10,6 +10,7 @@ tags:
 - work
 - day
 description: This is meta description
+draft: true
 
 ---
-this is a test
+this is a test and a draft
